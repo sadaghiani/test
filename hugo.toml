@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'new site name'
+title = 'move forward'
 theme = 'hugo-book'
 
 [params]
